@@ -68,7 +68,7 @@ I have over three years of experience working as a full stack web developer. I a
 
 ##
 
-⭐⭐⭐⭐⭐: "Very good job, Very patient and serious! Will choose them again."~Daisimon
+⭐⭐⭐⭐⭐: "Very good job, Very patient and serious! Will choose him again."~Daisimon
 
 ##
 
