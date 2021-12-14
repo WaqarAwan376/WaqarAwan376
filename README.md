@@ -81,5 +81,4 @@ I have over three years of experience working as a full stack web developer. I a
 ## <img src="https://img.shields.io/badge/📫 where to find me-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" alt="Where to Find me" />
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://www.linkedin.com/in/waqarawan376/)
-[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />](https://www.instagram.com/dablew_ayy/)
 <img src="https://img.shields.io/badge/tr.awan.waqar@gmail.com-%EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
