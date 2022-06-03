@@ -41,9 +41,9 @@ I have over three years of experience working as a full stack web developer. I a
 
 ## <img src="https://img.shields.io/badge/💼 currently working on-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" alt="Currently Working On" />
 
-- React Native App Development
+- Python
 - Python/Django Web application Development
-- Machine Learning
+- AWS
 
 ---
 
