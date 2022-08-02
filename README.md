@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/🧑 about Me-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" alt="About Me" />
 
 A motivated individual with dynamic skills in code creation, technology creation, automating stuff, and building softwares and Websites.
-🔭 I’m a Software Engineer 👨‍💻 , currently serving as a professional freelancer. 🤝
+🔭 I have done BS in Software Engineering 👨‍💻 , currently working as a Software Engineer and Python/Django developer in [Arbisoft](https://arbisoft.com/). 🤝
 I have more than one year of experience working as a full stack web developer. I am ready to take up new challenges and tasks.
 
 ## <img src="https://img.shields.io/badge/ 🤹 Main%20Skills-black.svg?&style=for-the-badge&logo=Skills&logoColor=white" alt="Skills" />
