@@ -42,7 +42,8 @@ I have more than one year of experience working as a full stack web developer. I
 ## <img src="https://img.shields.io/badge/💼 currently working on-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" alt="Currently Working On" />
 
 - Python
-- Python/Django Web application Development
+- Django Web Application Development
+- Django REST Framework
 - AWS
 
 ---
