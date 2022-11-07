@@ -28,6 +28,7 @@ I have more than one year of experience working as a full stack web developer. I
 
 ## <img src="https://img.shields.io/badge/📜 certifications-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" alt="Certifications" />
 
+- [Build a Backend REST API with Python & Django - Advanced](https://www.udemy.com/certificate/UC-5d695ea4-ada0-4e05-bc99-3f325920b40d/)
 - [Server-side Development with NodeJS, Express and MongoDB Course](https://coursera.org/share/cd714b88a8da705c18766814fa9e35c4)
 - [PHP & MySQL Course](https://www.udemy.com/certificate/UC-d73bc9e7-d115-4a41-b93d-d038f6e262a8/)
 - [Build a Full Website using WordPress](https://www.coursera.org/account/accomplishments/verify/AUPCHTSBZMDV?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project)
