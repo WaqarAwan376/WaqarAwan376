@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/badge/🧑 about Me-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" alt="About Me" />
 
-An enthusiastic individual possessing dynamic skills in coding, tech innovation, automation, and software and website development. 🔭 I hold a Bachelor's degree in Software Engineering 👨‍💻 and am presently pursuing my Master's in Computing and Software at McMaster University. 🤝 With over two years of experience as a full-stack web developer, I'm prepared to tackle fresh challenges and tasks. 💪
+An enthusiastic individual possessing dynamic skills in coding, tech innovation, automation, and software and website development. I hold a Bachelor's degree in Software Engineering and am presently pursuing my Master's in Computing and Software at McMaster University. With over two years of experience as a full-stack web developer, I'm prepared to tackle fresh challenges and tasks.
 
 ## <img src="https://img.shields.io/badge/ 🤹 Main%20Skills-black.svg?&style=for-the-badge&logo=Skills&logoColor=white" alt="Skills" />
 
