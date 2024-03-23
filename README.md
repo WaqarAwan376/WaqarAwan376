@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Welcome 👋,</h1> -->
 
-![Muhammad Waqar ul-Hassan Awan](https://media.licdn.com/dms/image/D4D16AQGbHTx84qqaRA/profile-displaybackgroundimage-shrink_350_1400/0/1677173578252?e=1715817600&v=beta&t=RFzhGA5JDAoulU7OwoZgpeQUUFBJS2V-1URIVaPwKU4)
+![Muhammad Waqar ul-Hassan Awan](https://media.licdn.com/dms/image/D5616AQG6yspvrmkGeg/profile-displaybackgroundimage-shrink_350_1400/0/1711174175527?e=1716422400&v=beta&t=-5VXjn21EdfXoFfd3CbJQP89cpAph21HUoh-vwOJ_u8)
 
 <img src="https://img.shields.io/badge/🧑 about Me-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" alt="About Me" />
 
