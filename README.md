@@ -50,7 +50,6 @@ An enthusiastic individual possessing dynamic skills in coding, tech innovation,
 
 [<img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />](https://www.fiverr.com/devcrew_)
 [<img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />](https://www.fiverr.com/webappdev01)
-[<img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />](https://www.fiverr.com/web_app_dev01)
 
 ## <img src="https://img.shields.io/badge/⭐ Clients%20Reviews-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" alt="Clients Reviews" />
 
